@@ -42,7 +42,7 @@
         <update_guid_history>e7b137603a334c10addb8144d6b32cae:600729729</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="urgency.A new normal INC needs to be created">0e9377e01b334c10206f43b4cc4bcbf4</sys_audit_delete>
+        <sys_audit_delete display_value="">0e9377e01b334c10206f43b4cc4bcbf4</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-24 03:55:10</sys_created_on>

@@ -42,7 +42,7 @@
         <update_guid_history>84a173601c334c102cce6da9056181cf:-987636200</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="VA Academy.DATE">63933be01b334c10206f43b4cc4bcb8e</sys_audit_delete>
+        <sys_audit_delete display_value="">63933be01b334c10206f43b4cc4bcb8e</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-24 03:55:16</sys_created_on>

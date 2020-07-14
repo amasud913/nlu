@@ -42,7 +42,7 @@
         <update_guid_history>d4c17760be334c10934a489ca7886ed2:-246152611</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="device.can't connect to vpn on my mac">a19337e01b334c10206f43b4cc4bcbca</sys_audit_delete>
+        <sys_audit_delete display_value="">a19337e01b334c10206f43b4cc4bcbca</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-24 03:55:07</sys_created_on>

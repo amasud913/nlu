@@ -42,7 +42,7 @@
         <update_guid_history>ca9663a4baff0c1022a16aff2684bb46:-1245873760</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="urgency.new crucial incident">f381bf201b334c10206f43b4cc4bcbc4</sys_audit_delete>
+        <sys_audit_delete display_value="">f381bf201b334c10206f43b4cc4bcbc4</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-24 03:46:16</sys_created_on>

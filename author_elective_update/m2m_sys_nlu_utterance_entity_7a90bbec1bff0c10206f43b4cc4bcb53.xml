@@ -42,7 +42,7 @@
         <update_guid_history>7e90bbec36ff0c10041bde549d792b54:1690857144</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="device.can't connect to vpn on my computer">9e813f201b334c10206f43b4cc4bcb53</sys_audit_delete>
+        <sys_audit_delete display_value="">9e813f201b334c10206f43b4cc4bcb53</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-24 03:46:10</sys_created_on>

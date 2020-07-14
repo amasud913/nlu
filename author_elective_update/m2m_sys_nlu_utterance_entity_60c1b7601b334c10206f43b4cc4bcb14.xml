@@ -42,7 +42,7 @@
         <update_guid_history>24c1b76012334c10898f228ddf27a815:1818612842</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="device.my macbook won't let me into the vpn">ed9337e01b334c10206f43b4cc4bcbd6</sys_audit_delete>
+        <sys_audit_delete display_value="">ed9337e01b334c10206f43b4cc4bcbd6</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-24 03:55:08</sys_created_on>

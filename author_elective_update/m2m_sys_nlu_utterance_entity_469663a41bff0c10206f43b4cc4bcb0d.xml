@@ -42,7 +42,7 @@
         <update_guid_history>0a9663a4c1ff0c1066ba0f6f733edc0e:-1305278733</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="urgency.can i get immediate help from IT">7b81bf201b334c10206f43b4cc4bcbca</sys_audit_delete>
+        <sys_audit_delete display_value="">7b81bf201b334c10206f43b4cc4bcbca</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-24 03:46:16</sys_created_on>
