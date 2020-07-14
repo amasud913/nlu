@@ -42,7 +42,7 @@
         <update_guid_history>74c1b7601c334c106f3726e3e3183149:-1983802534</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="device.vpn problems on android">659337e01b334c10206f43b4cc4bcbdd</sys_audit_delete>
+        <sys_audit_delete display_value="">659337e01b334c10206f43b4cc4bcbdd</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-24 03:55:08</sys_created_on>

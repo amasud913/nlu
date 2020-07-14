@@ -41,7 +41,7 @@
         <update_guid_history>b290f7ec9aff0c10154365ab3537b740:1449150921</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="device.VPNConnectivity">da813f201b334c10206f43b4cc4bcb46</sys_audit_delete>
+        <sys_audit_delete display_value="">da813f201b334c10206f43b4cc4bcb46</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-24 03:46:10</sys_created_on>

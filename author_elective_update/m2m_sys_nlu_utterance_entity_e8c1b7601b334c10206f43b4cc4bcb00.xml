@@ -42,7 +42,7 @@
         <update_guid_history>acc1b76033334c10fb5d6382d887b701:815823506</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="device.I cannot access the VPN using windows">299337e01b334c10206f43b4cc4bcbe0</sys_audit_delete>
+        <sys_audit_delete display_value="">299337e01b334c10206f43b4cc4bcbe0</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-24 03:55:08</sys_created_on>

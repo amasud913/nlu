@@ -41,7 +41,7 @@
         <update_guid_history>23b1376082334c10acb7f1e0a3a479ab:1822249527</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="urgency.OpenITTicket">c29377e01b334c10206f43b4cc4bcbf1</sys_audit_delete>
+        <sys_audit_delete display_value="">c29377e01b334c10206f43b4cc4bcbf1</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-24 03:55:10</sys_created_on>
