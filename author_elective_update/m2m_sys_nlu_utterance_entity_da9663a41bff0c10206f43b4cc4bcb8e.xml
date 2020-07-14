@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_nlu_utterance_entity">
+    <m2m_sys_nlu_utterance_entity action="DELETE">
+        <annotation>[{"indexes":[2],"annotatedString":"escalate ticket {{phrase=\"INC0010009\"}}"}]</annotation>
+        <entity display_value="ticketnumber">5a9663a41bff0c10206f43b4cc4bcb7e</entity>
+        <sys_class_name>m2m_sys_nlu_utterance_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 02:58:23</sys_created_on>
+        <sys_id>da9663a41bff0c10206f43b4cc4bcb8e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ticketnumber.escalate ticket INC0010009</sys_name>
+        <sys_package display_value="NLU Tuning" source="x_snc_nlu_tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NLU Tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_scope>
+        <sys_update_name>m2m_sys_nlu_utterance_entity_da9663a41bff0c10206f43b4cc4bcb8e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 02:58:23</sys_updated_on>
+        <utterance display_value="escalate ticket INC0010009">929663a41bff0c10206f43b4cc4bcb8d</utterance>
+    </m2m_sys_nlu_utterance_entity>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NLU Tuning">4016afe01bff0c10206f43b4cc4bcbaa</application>
+        <file_path/>
+        <instance_id>f85396e2dbc000542f68c5970596191c</instance_id>
+        <instance_name>asifmasuddemo</instance_name>
+        <name>m2m_sys_nlu_utterance_entity_da9663a41bff0c10206f43b4cc4bcb8e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_nlu_utterance_entity"><m2m_sys_nlu_utterance_entity action="INSERT_OR_UPDATE"><annotation>[{"indexes":[2],"annotatedString":"escalate ticket {{phrase=\"INC0010009\"}}"}]</annotation><entity display_value="ticketnumber">5a9663a41bff0c10206f43b4cc4bcb7e</entity><sys_class_name>m2m_sys_nlu_utterance_entity</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-24 02:58:23</sys_created_on><sys_id>da9663a41bff0c10206f43b4cc4bcb8e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ticketnumber.escalate ticket INC0010009</sys_name><sys_package display_value="NLU Tuning" source="x_snc_nlu_tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_package><sys_policy/><sys_scope display_value="NLU Tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_scope><sys_update_name>m2m_sys_nlu_utterance_entity_da9663a41bff0c10206f43b4cc4bcb8e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-24 02:58:23</sys_updated_on><utterance display_value="escalate ticket INC0010009">929663a41bff0c10206f43b4cc4bcb8d</utterance></m2m_sys_nlu_utterance_entity></record_update>]]></payload>
+        <payload_hash>-1938239042</payload_hash>
+        <record_name>ticketnumber.escalate ticket INC0010009</record_name>
+        <reverted_from/>
+        <source>8416afe01bff0c10206f43b4cc4bcbac</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 02:58:23</sys_created_on>
+        <sys_id>569663a41bff0c10206f43b4cc4bcb90</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1710a7a0d1e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 02:58:23</sys_updated_on>
+        <type>NLU Utterance Entity</type>
+        <update_guid>9e9663a47fff0c101481936f5c7f578f</update_guid>
+        <update_guid_history>9e9663a47fff0c101481936f5c7f578f:-1938239042</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="ticketnumber.escalate ticket INC0010009">7181fb201b334c10206f43b4cc4bcb93</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 03:46:08</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sys_nlu_utterance_entity">m2m_sys_nlu_utterance_entity</sys_db_object>
+        <sys_id>c2a904f010504d6697a34ca4a0d97251</sys_id>
+        <sys_metadata>da9663a41bff0c10206f43b4cc4bcb8e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ticketnumber.escalate ticket INC0010009</sys_name>
+        <sys_package display_value="NLU Tuning" source="x_snc_nlu_tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NLU Tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_scope>
+        <sys_scope_delete display_value="">3cf1dc787ebd41eabace768624b5e4e4</sys_scope_delete>
+        <sys_update_name>m2m_sys_nlu_utterance_entity_da9663a41bff0c10206f43b4cc4bcb8e</sys_update_name>
+        <sys_update_version display_value="m2m_sys_nlu_utterance_entity_da9663a41bff0c10206f43b4cc4bcb8e">569663a41bff0c10206f43b4cc4bcb90</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 03:46:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

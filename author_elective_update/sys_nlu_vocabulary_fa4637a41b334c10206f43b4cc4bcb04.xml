@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_nlu_vocabulary">
+    <sys_nlu_vocabulary action="DELETE">
+        <model display_value="VA Academy">0ba37be01b334c10206f43b4cc4bcbc4</model>
+        <name>pw</name>
+        <pattern>\b(?i)pw\b</pattern>
+        <related_terms>password</related_terms>
+        <sys_class_name>sys_nlu_vocabulary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 04:06:57</sys_created_on>
+        <sys_id>fa4637a41b334c10206f43b4cc4bcb04</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pw</sys_name>
+        <sys_package display_value="NLU Tuning" source="x_snc_nlu_tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NLU Tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_scope>
+        <sys_update_name>sys_nlu_vocabulary_fa4637a41b334c10206f43b4cc4bcb04</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 04:06:57</sys_updated_on>
+        <type>pattern</type>
+    </sys_nlu_vocabulary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NLU Tuning">4016afe01bff0c10206f43b4cc4bcbaa</application>
+        <file_path/>
+        <instance_id>f85396e2dbc000542f68c5970596191c</instance_id>
+        <instance_name>asifmasuddemo</instance_name>
+        <name>sys_nlu_vocabulary_fa4637a41b334c10206f43b4cc4bcb04</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_nlu_vocabulary"><sys_nlu_vocabulary action="INSERT_OR_UPDATE"><model display_value="VA Academy">0ba37be01b334c10206f43b4cc4bcbc4</model><name>pw</name><pattern>\b(?i)pw\b</pattern><related_terms>password</related_terms><sys_class_name>sys_nlu_vocabulary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-24 04:06:57</sys_created_on><sys_id>fa4637a41b334c10206f43b4cc4bcb04</sys_id><sys_mod_count>0</sys_mod_count><sys_name>pw</sys_name><sys_package display_value="NLU Tuning" source="x_snc_nlu_tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_package><sys_policy/><sys_scope display_value="NLU Tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_scope><sys_update_name>sys_nlu_vocabulary_fa4637a41b334c10206f43b4cc4bcb04</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-24 04:06:57</sys_updated_on><type>pattern</type></sys_nlu_vocabulary></record_update>]]></payload>
+        <payload_hash>-1429666839</payload_hash>
+        <record_name>pw</record_name>
+        <reverted_from/>
+        <source>8416afe01bff0c10206f43b4cc4bcbac</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 04:06:57</sys_created_on>
+        <sys_id>be4637a41b334c10206f43b4cc4bcb06</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1710ab8d5d20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 04:06:57</sys_updated_on>
+        <type>NLU Vocabulary</type>
+        <update_guid>f64637a407334c10dce929c7ac9f2c06</update_guid>
+        <update_guid_history>f64637a407334c10dce929c7ac9f2c06:-1429666839</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 04:07:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_nlu_vocabulary">sys_nlu_vocabulary</sys_db_object>
+        <sys_id>be4458e671654120b6fac8755f456400</sys_id>
+        <sys_metadata>fa4637a41b334c10206f43b4cc4bcb04</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pw</sys_name>
+        <sys_package display_value="NLU Tuning" source="x_snc_nlu_tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NLU Tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_scope>
+        <sys_scope_delete display_value="">3cf1dc787ebd41eabace768624b5e4e4</sys_scope_delete>
+        <sys_update_name>sys_nlu_vocabulary_fa4637a41b334c10206f43b4cc4bcb04</sys_update_name>
+        <sys_update_version display_value="sys_nlu_vocabulary_fa4637a41b334c10206f43b4cc4bcb04">be4637a41b334c10206f43b4cc4bcb06</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 04:07:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

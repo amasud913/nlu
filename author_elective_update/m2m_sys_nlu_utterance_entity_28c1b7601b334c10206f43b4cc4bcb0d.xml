@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_nlu_utterance_entity">
+    <m2m_sys_nlu_utterance_entity action="DELETE">
+        <annotation>[{"indexes":[7],"annotatedString":"I'm having VPN connection issues on my {{phrase=\"desktop\"}}","cat":"windows"}]</annotation>
+        <entity display_value="device">94c177601b334c10206f43b4cc4bcbc7</entity>
+        <sys_class_name>m2m_sys_nlu_utterance_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 03:47:08</sys_created_on>
+        <sys_id>28c1b7601b334c10206f43b4cc4bcb0d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>device.I'm having VPN connection issues on my desktop</sys_name>
+        <sys_package display_value="NLU Tuning" source="x_snc_nlu_tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NLU Tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_scope>
+        <sys_update_name>m2m_sys_nlu_utterance_entity_28c1b7601b334c10206f43b4cc4bcb0d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 03:47:08</sys_updated_on>
+        <utterance display_value="I'm having VPN connection issues on my desktop">ecc1b7601b334c10206f43b4cc4bcb0b</utterance>
+    </m2m_sys_nlu_utterance_entity>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NLU Tuning">4016afe01bff0c10206f43b4cc4bcbaa</application>
+        <file_path/>
+        <instance_id>f85396e2dbc000542f68c5970596191c</instance_id>
+        <instance_name>asifmasuddemo</instance_name>
+        <name>m2m_sys_nlu_utterance_entity_28c1b7601b334c10206f43b4cc4bcb0d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_nlu_utterance_entity"><m2m_sys_nlu_utterance_entity action="INSERT_OR_UPDATE"><annotation>[{"indexes":[7],"annotatedString":"I'm having VPN connection issues on my {{phrase=\"desktop\"}}","cat":"windows"}]</annotation><entity display_value="device">94c177601b334c10206f43b4cc4bcbc7</entity><sys_class_name>m2m_sys_nlu_utterance_entity</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-24 03:47:08</sys_created_on><sys_id>28c1b7601b334c10206f43b4cc4bcb0d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>device.I'm having VPN connection issues on my desktop</sys_name><sys_package display_value="NLU Tuning" source="x_snc_nlu_tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_package><sys_policy/><sys_scope display_value="NLU Tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_scope><sys_update_name>m2m_sys_nlu_utterance_entity_28c1b7601b334c10206f43b4cc4bcb0d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-24 03:47:08</sys_updated_on><utterance display_value="I'm having VPN connection issues on my desktop">ecc1b7601b334c10206f43b4cc4bcb0b</utterance></m2m_sys_nlu_utterance_entity></record_update>]]></payload>
+        <payload_hash>-142730784</payload_hash>
+        <record_name>device.I'm having VPN connection issues on my desktop</record_name>
+        <reverted_from/>
+        <source>727a1a7e1b508c10206f43b4cc4bcb88</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 03:47:08</sys_created_on>
+        <sys_id>a0c1b7601b334c10206f43b4cc4bcb0f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1710aa6b17b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 03:47:08</sys_updated_on>
+        <type>NLU Utterance Entity</type>
+        <update_guid>e8c1b760e8334c100cd17e0b6c417e0e</update_guid>
+        <update_guid_history>e8c1b760e8334c100cd17e0b6c417e0e:-142730784</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="device.I'm having VPN connection issues on my desktop">a59337e01b334c10206f43b4cc4bcbcd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 03:55:07</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sys_nlu_utterance_entity">m2m_sys_nlu_utterance_entity</sys_db_object>
+        <sys_id>022c0136c93a400080ba62f100000000</sys_id>
+        <sys_metadata>28c1b7601b334c10206f43b4cc4bcb0d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>device.I'm having VPN connection issues on my desktop</sys_name>
+        <sys_package display_value="NLU Tuning" source="x_snc_nlu_tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NLU Tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_scope>
+        <sys_scope_delete display_value="">3cf1dc787ebd41eabace768624b5e4e4</sys_scope_delete>
+        <sys_update_name>m2m_sys_nlu_utterance_entity_28c1b7601b334c10206f43b4cc4bcb0d</sys_update_name>
+        <sys_update_version display_value="m2m_sys_nlu_utterance_entity_28c1b7601b334c10206f43b4cc4bcb0d">a0c1b7601b334c10206f43b4cc4bcb0f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 03:55:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_nlu_utterance_entity">
+    <m2m_sys_nlu_utterance_entity action="DELETE">
+        <annotation>[{"indexes":[2],"annotatedString":"A new {{phrase=\"normal\"}} INC needs to be created","cat":"3 - Low"}]</annotation>
+        <entity display_value="urgency">a7b137601b334c10206f43b4cc4bcba8</entity>
+        <sys_class_name>m2m_sys_nlu_utterance_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 03:47:05</sys_created_on>
+        <sys_id>27b137601b334c10206f43b4cc4bcbad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>urgency.A new normal INC needs to be created</sys_name>
+        <sys_package display_value="NLU Tuning" source="x_snc_nlu_tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NLU Tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_scope>
+        <sys_update_name>m2m_sys_nlu_utterance_entity_27b137601b334c10206f43b4cc4bcbad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 03:47:05</sys_updated_on>
+        <utterance display_value="A new normal INC needs to be created">ebb137601b334c10206f43b4cc4bcbab</utterance>
+    </m2m_sys_nlu_utterance_entity>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NLU Tuning">4016afe01bff0c10206f43b4cc4bcbaa</application>
+        <file_path/>
+        <instance_id>f85396e2dbc000542f68c5970596191c</instance_id>
+        <instance_name>asifmasuddemo</instance_name>
+        <name>m2m_sys_nlu_utterance_entity_27b137601b334c10206f43b4cc4bcbad</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_nlu_utterance_entity"><m2m_sys_nlu_utterance_entity action="INSERT_OR_UPDATE"><annotation>[{"indexes":[2],"annotatedString":"A new {{phrase=\"normal\"}} INC needs to be created","cat":"3 - Low"}]</annotation><entity display_value="urgency">a7b137601b334c10206f43b4cc4bcba8</entity><sys_class_name>m2m_sys_nlu_utterance_entity</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-24 03:47:05</sys_created_on><sys_id>27b137601b334c10206f43b4cc4bcbad</sys_id><sys_mod_count>0</sys_mod_count><sys_name>urgency.A new normal INC needs to be created</sys_name><sys_package display_value="NLU Tuning" source="x_snc_nlu_tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_package><sys_policy/><sys_scope display_value="NLU Tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_scope><sys_update_name>m2m_sys_nlu_utterance_entity_27b137601b334c10206f43b4cc4bcbad</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-24 03:47:05</sys_updated_on><utterance display_value="A new normal INC needs to be created">ebb137601b334c10206f43b4cc4bcbab</utterance></m2m_sys_nlu_utterance_entity></record_update>]]></payload>
+        <payload_hash>600729729</payload_hash>
+        <record_name>urgency.A new normal INC needs to be created</record_name>
+        <reverted_from/>
+        <source>727a1a7e1b508c10206f43b4cc4bcb88</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 03:47:05</sys_created_on>
+        <sys_id>afb137601b334c10206f43b4cc4bcbae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1710aa6a3530000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 03:47:05</sys_updated_on>
+        <type>NLU Utterance Entity</type>
+        <update_guid>e7b137603a334c10addb8144d6b32cae</update_guid>
+        <update_guid_history>e7b137603a334c10addb8144d6b32cae:600729729</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="urgency.A new normal INC needs to be created">0e9377e01b334c10206f43b4cc4bcbf4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 03:55:10</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sys_nlu_utterance_entity">m2m_sys_nlu_utterance_entity</sys_db_object>
+        <sys_id>0ac6a62a67e744ef812b892a431fb7b1</sys_id>
+        <sys_metadata>27b137601b334c10206f43b4cc4bcbad</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>urgency.A new normal INC needs to be created</sys_name>
+        <sys_package display_value="NLU Tuning" source="x_snc_nlu_tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NLU Tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_scope>
+        <sys_scope_delete display_value="">3cf1dc787ebd41eabace768624b5e4e4</sys_scope_delete>
+        <sys_update_name>m2m_sys_nlu_utterance_entity_27b137601b334c10206f43b4cc4bcbad</sys_update_name>
+        <sys_update_version display_value="m2m_sys_nlu_utterance_entity_27b137601b334c10206f43b4cc4bcbad">afb137601b334c10206f43b4cc4bcbae</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 03:55:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

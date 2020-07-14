@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_nlu_utterance">
+    <sys_nlu_utterance action="DELETE">
+        <intent display_value="OpenITTicket">6bb137601b334c10206f43b4cc4bcba6</intent>
+        <sys_class_name>sys_nlu_utterance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 03:47:05</sys_created_on>
+        <sys_id>ffb137601b334c10206f43b4cc4bcbc5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>i need help from IT</sys_name>
+        <sys_package display_value="NLU Tuning" source="x_snc_nlu_tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NLU Tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_scope>
+        <sys_update_name>sys_nlu_utterance_ffb137601b334c10206f43b4cc4bcbc5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 03:47:05</sys_updated_on>
+        <utterance>i need help from IT</utterance>
+    </sys_nlu_utterance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NLU Tuning">4016afe01bff0c10206f43b4cc4bcbaa</application>
+        <file_path/>
+        <instance_id>f85396e2dbc000542f68c5970596191c</instance_id>
+        <instance_name>asifmasuddemo</instance_name>
+        <name>sys_nlu_utterance_ffb137601b334c10206f43b4cc4bcbc5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_nlu_utterance"><sys_nlu_utterance action="INSERT_OR_UPDATE"><intent display_value="OpenITTicket">6bb137601b334c10206f43b4cc4bcba6</intent><sys_class_name>sys_nlu_utterance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-24 03:47:05</sys_created_on><sys_id>ffb137601b334c10206f43b4cc4bcbc5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>i need help from IT</sys_name><sys_package display_value="NLU Tuning" source="x_snc_nlu_tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_package><sys_policy/><sys_scope display_value="NLU Tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_scope><sys_update_name>sys_nlu_utterance_ffb137601b334c10206f43b4cc4bcbc5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-24 03:47:05</sys_updated_on><utterance>i need help from IT</utterance></sys_nlu_utterance></record_update>]]></payload>
+        <payload_hash>259758310</payload_hash>
+        <record_name>i need help from IT</record_name>
+        <reverted_from/>
+        <source>727a1a7e1b508c10206f43b4cc4bcb88</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 03:47:05</sys_created_on>
+        <sys_id>37b137601b334c10206f43b4cc4bcbc7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1710aa6a4df0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 03:47:05</sys_updated_on>
+        <type>NLU Utterance</type>
+        <update_guid>7fb1376088334c10b4419f35c5cecfc6</update_guid>
+        <update_guid_history>7fb1376088334c10b4419f35c5cecfc6:259758310</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 03:55:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_nlu_utterance">sys_nlu_utterance</sys_db_object>
+        <sys_id>38964657ded246b29271d9097f2e15a4</sys_id>
+        <sys_metadata>ffb137601b334c10206f43b4cc4bcbc5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>i need help from IT</sys_name>
+        <sys_package display_value="NLU Tuning" source="x_snc_nlu_tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NLU Tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_scope>
+        <sys_scope_delete display_value="">3cf1dc787ebd41eabace768624b5e4e4</sys_scope_delete>
+        <sys_update_name>sys_nlu_utterance_ffb137601b334c10206f43b4cc4bcbc5</sys_update_name>
+        <sys_update_version display_value="sys_nlu_utterance_ffb137601b334c10206f43b4cc4bcbc5">37b137601b334c10206f43b4cc4bcbc7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 03:55:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

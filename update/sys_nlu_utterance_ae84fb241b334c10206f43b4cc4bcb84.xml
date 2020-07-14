@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_nlu_utterance">
+    <sys_nlu_utterance action="INSERT_OR_UPDATE">
+        <intent display_value="What Can You Do">6284fb241b334c10206f43b4cc4bcb83</intent>
+        <sys_class_name>sys_nlu_utterance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 03:59:18</sys_created_on>
+        <sys_id>ae84fb241b334c10206f43b4cc4bcb84</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>explore capabilities</sys_name>
+        <sys_package display_value="NLU Tuning" source="x_snc_nlu_tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NLU Tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_scope>
+        <sys_update_name>sys_nlu_utterance_ae84fb241b334c10206f43b4cc4bcb84</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 03:59:18</sys_updated_on>
+        <utterance>explore capabilities</utterance>
+    </sys_nlu_utterance>
+</record_update>

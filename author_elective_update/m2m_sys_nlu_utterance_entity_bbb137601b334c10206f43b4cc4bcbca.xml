@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_nlu_utterance_entity">
+    <m2m_sys_nlu_utterance_entity action="DELETE">
+        <annotation>[{"indexes":[8,9],"annotatedString":"i need someone from IT to help me {{phrase=\"right now\"}}","cat":"1 - High"}]</annotation>
+        <entity display_value="urgency">a7b137601b334c10206f43b4cc4bcba8</entity>
+        <sys_class_name>m2m_sys_nlu_utterance_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 03:47:05</sys_created_on>
+        <sys_id>bbb137601b334c10206f43b4cc4bcbca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>urgency.i need someone from IT to help me right now</sys_name>
+        <sys_package display_value="NLU Tuning" source="x_snc_nlu_tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NLU Tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_scope>
+        <sys_update_name>m2m_sys_nlu_utterance_entity_bbb137601b334c10206f43b4cc4bcbca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 03:47:05</sys_updated_on>
+        <utterance display_value="i need someone from IT to help me right now">73b137601b334c10206f43b4cc4bcbc9</utterance>
+    </m2m_sys_nlu_utterance_entity>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NLU Tuning">4016afe01bff0c10206f43b4cc4bcbaa</application>
+        <file_path/>
+        <instance_id>f85396e2dbc000542f68c5970596191c</instance_id>
+        <instance_name>asifmasuddemo</instance_name>
+        <name>m2m_sys_nlu_utterance_entity_bbb137601b334c10206f43b4cc4bcbca</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_nlu_utterance_entity"><m2m_sys_nlu_utterance_entity action="INSERT_OR_UPDATE"><annotation>[{"indexes":[8,9],"annotatedString":"i need someone from IT to help me {{phrase=\"right now\"}}","cat":"1 - High"}]</annotation><entity display_value="urgency">a7b137601b334c10206f43b4cc4bcba8</entity><sys_class_name>m2m_sys_nlu_utterance_entity</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-24 03:47:05</sys_created_on><sys_id>bbb137601b334c10206f43b4cc4bcbca</sys_id><sys_mod_count>0</sys_mod_count><sys_name>urgency.i need someone from IT to help me right now</sys_name><sys_package display_value="NLU Tuning" source="x_snc_nlu_tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_package><sys_policy/><sys_scope display_value="NLU Tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_scope><sys_update_name>m2m_sys_nlu_utterance_entity_bbb137601b334c10206f43b4cc4bcbca</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-24 03:47:05</sys_updated_on><utterance display_value="i need someone from IT to help me right now">73b137601b334c10206f43b4cc4bcbc9</utterance></m2m_sys_nlu_utterance_entity></record_update>]]></payload>
+        <payload_hash>1800813409</payload_hash>
+        <record_name>urgency.i need someone from IT to help me right now</record_name>
+        <reverted_from/>
+        <source>727a1a7e1b508c10206f43b4cc4bcb88</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 03:47:05</sys_created_on>
+        <sys_id>7bb137601b334c10206f43b4cc4bcbf1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1710aa6a5390000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 03:47:05</sys_updated_on>
+        <type>NLU Utterance Entity</type>
+        <update_guid>b3b1376061334c10e17bb6dfed71def1</update_guid>
+        <update_guid_history>b3b1376061334c10e17bb6dfed71def1:1800813409</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="urgency.i need someone from IT to help me right now">9693b7e01b334c10206f43b4cc4bcb14</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 03:55:10</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sys_nlu_utterance_entity">m2m_sys_nlu_utterance_entity</sys_db_object>
+        <sys_id>4f37d363351f40709a61c0d30a341440</sys_id>
+        <sys_metadata>bbb137601b334c10206f43b4cc4bcbca</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>urgency.i need someone from IT to help me right now</sys_name>
+        <sys_package display_value="NLU Tuning" source="x_snc_nlu_tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NLU Tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_scope>
+        <sys_scope_delete display_value="">3cf1dc787ebd41eabace768624b5e4e4</sys_scope_delete>
+        <sys_update_name>m2m_sys_nlu_utterance_entity_bbb137601b334c10206f43b4cc4bcbca</sys_update_name>
+        <sys_update_version display_value="m2m_sys_nlu_utterance_entity_bbb137601b334c10206f43b4cc4bcbca">7bb137601b334c10206f43b4cc4bcbf1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 03:55:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_nlu_utterance_entity">
+    <m2m_sys_nlu_utterance_entity action="INSERT_OR_UPDATE">
+        <annotation>[{"indexes":[9],"annotatedString":"How can I connect to the vpn on my {{phrase=\"mac\"}}","cat":"apple"}]</annotation>
+        <entity display_value="device">844477241b334c10206f43b4cc4bcb67</entity>
+        <sys_class_name>m2m_sys_nlu_utterance_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 03:58:02</sys_created_on>
+        <sys_id>884477241b334c10206f43b4cc4bcb7f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>device.How can I connect to the vpn on my mac</sys_name>
+        <sys_package display_value="NLU Tuning" source="x_snc_nlu_tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NLU Tuning">4016afe01bff0c10206f43b4cc4bcbaa</sys_scope>
+        <sys_update_name>m2m_sys_nlu_utterance_entity_884477241b334c10206f43b4cc4bcb7f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 03:58:02</sys_updated_on>
+        <utterance display_value="How can I connect to the vpn on my mac">404477241b334c10206f43b4cc4bcb7e</utterance>
+    </m2m_sys_nlu_utterance_entity>
+</record_update>
